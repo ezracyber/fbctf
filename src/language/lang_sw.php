@@ -178,7 +178,7 @@ $translations = array(
   'Create More' =>
     'Tengeneza Zaidi',
   'Export Available' =>
-    'Uhamishaji Haupatikani',
+    'Uhamishaji Unapatikana',
   'Not started yet' =>
     'Bado haijaanza',
   'Configuration' =>
